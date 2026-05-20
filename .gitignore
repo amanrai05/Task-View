@@ -1,0 +1,9 @@
+node_modules/
+server/node_modules/
+client/node_modules/
+client/build/
+server/taskflow.db
+server/*.db
+.env
+*.env
+.DS_Store
