@@ -1,4 +1,4 @@
-# ⚡ TaskFlow — Team Task Manager
+# ⚡ TaskFlow — Team Task Manager
 
 A full-stack project and task management application with role-based access control.
 
